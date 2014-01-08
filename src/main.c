@@ -3,6 +3,8 @@
 #include <avr/interrupt.h>
 #include <avr/wdt.h>
 
+// Ololo!
+
 int main(void)
 {
     // 1. Init input and output
